@@ -52,3 +52,5 @@
 @@||gateway.instagram.com^
 @@||graph-fallback.instagram.com^
 @@||www.instagram.com^
+
+@@||graph.whatsapp.net^
