@@ -16,6 +16,7 @@
 @@||t.co^
 @@||trustwallet.com^
 @@||s.youtube.com^
+@@||pndsn.com^
 
 @@||android.clients.google.com^
 @@||api.push.apple.com^
