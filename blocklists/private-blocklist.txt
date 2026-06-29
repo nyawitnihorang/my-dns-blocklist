@@ -28,6 +28,8 @@
 @@||play.googleapis.com^
 @@||mtalk.google.com^
 @@||push.apple.com^
+@@||mask.icloud.com^
+@@||mask-h2.icloud.com^
 
 @@||b-graph-fallback.facebook.com^
 @@||b-graph.facebook.com^
