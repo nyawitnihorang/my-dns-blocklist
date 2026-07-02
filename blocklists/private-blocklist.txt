@@ -17,6 +17,7 @@
 @@||trustwallet.com^
 @@||s.youtube.com^
 @@||pndsn.com^
+@@||moe.mohkg1017.pro^
 
 @@||android.clients.google.com^
 @@||api.push.apple.com^
