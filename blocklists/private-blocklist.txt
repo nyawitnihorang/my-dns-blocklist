@@ -18,6 +18,7 @@
 @@||s.youtube.com^
 @@||pndsn.com^
 @@||moe.mohkg1017.pro^
+@@||phncdn.com^
 
 @@||android.clients.google.com^
 @@||api.push.apple.com^
