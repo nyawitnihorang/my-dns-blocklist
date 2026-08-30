@@ -32,6 +32,7 @@
 @@||push.apple.com^
 @@||mask.icloud.com^
 @@||mask-h2.icloud.com^
+@@||mask-api.icloud.com^
 
 @@||b-graph-fallback.facebook.com^
 @@||b-graph.facebook.com^
