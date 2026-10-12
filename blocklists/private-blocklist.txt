@@ -18,6 +18,7 @@
 @@||s.youtube.com^
 @@||pndsn.com^
 @@||moe.mohkg1017.pro^
+@@||kalenderimlek.blogspot.com^
 @@||phncdn.com^
 
 @@||android.clients.google.com^
