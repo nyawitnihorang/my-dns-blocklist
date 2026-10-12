@@ -35,6 +35,10 @@
 @@||mask-h2.icloud.com^
 @@||mask-api.icloud.com^
 
+@@||app.localhost.direct^
+@@||backloop.dev^
+@@||api.palera.in^
+
 @@||b-graph-fallback.facebook.com^
 @@||b-graph.facebook.com^
 @@||graph-fallback.facebook.com^
