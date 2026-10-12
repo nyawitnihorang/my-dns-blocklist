@@ -21,7 +21,6 @@
 @@||phncdn.com^
 
 @@||android.clients.google.com^
-@@||api.push.apple.com^
 @@||clients3.google.com^
 @@||clients4.google.com^
 @@||fcm.googleapis.com^
@@ -29,6 +28,8 @@
 @@||firebaseinstallations.googleapis.com^
 @@||play.googleapis.com^
 @@||mtalk.google.com^
+
+@@||api.push.apple.com^
 @@||push.apple.com^
 @@||mask.icloud.com^
 @@||mask-h2.icloud.com^
