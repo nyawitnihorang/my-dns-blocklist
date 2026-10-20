@@ -22,6 +22,10 @@
 @@||phncdn.com^
 @@||kingbokep.tv^
 @@||mailnesia.com^
+@@||chemicloud.com^
+@@||serverhostgroup.com^
+@@||launchframer.com^
+@@||fluxive-flex.com^
 
 @@||android.clients.google.com^
 @@||clients3.google.com^
