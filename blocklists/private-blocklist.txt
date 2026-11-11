@@ -1,14 +1,8 @@
 ! My Personal DNS Blocklist
 ! Updated manually
 
-@@||ads-backup.shngm.io^
-@@||ads.shinigami.io^
-@@||akunlama.com^
-@@||cuan.lol^
-@@||cutt.ly^
 @@||dracinema.com^
 @@||giphy.com^
-@@||mez.ink^
 @@||sakuranovel.id^
 @@||fatality.win^
 @@||midnight.im^
@@ -21,6 +15,11 @@
 @@||kalenderimlek.blogspot.com^
 @@||phncdn.com^
 @@||kingbokep.tv^
+
+@@||mez.ink^
+@@||akunlama.com^
+@@||cuan.lol^
+@@||cutt.ly^
 @@||mailnesia.com^
 @@||chemicloud.com^
 @@||serverhostgroup.com^
@@ -28,6 +27,7 @@
 @@||fluxive-flex.com^
 @@||kuku.lu^
 @@||pbs.yahoo.com^
+@@||adspower.com^
 
 @@||android.clients.google.com^
 @@||clients3.google.com^
